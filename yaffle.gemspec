@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Yaffle::VERSION
   s.authors     = ["Andrei Motinga"]
   s.email       = ["andrew.motinga@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Yaffle."
-  s.description = "TODO: Description of Yaffle."
+  s.homepage    = "http://www.ezpoiskc.com"
+  s.summary     = "Summary of Yaffle."
+  s.description = "Description of Yaffle."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
